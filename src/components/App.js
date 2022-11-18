@@ -1,4 +1,4 @@
-import React from "react";
+import React,{Component,useState} from "react";
 import Heading from "./Heading";
 import InputQuery from "./InputQuery";
 import SubHeading from "./SubHeading"
@@ -16,5 +16,5 @@ const App = () => {
   )
 }
 
-export default App
+export default App;
 
